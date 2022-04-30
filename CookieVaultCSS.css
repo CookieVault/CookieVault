@@ -1,0 +1,100 @@
+.cookie {
+	float: right;
+	width:200px;
+	position: absolute;
+	left: 700px;
+	
+}
+
+
+.vault {
+	position: relative;
+     left: 30px;
+	 top: 250px;
+	 width:1500px;
+}
+
+body {
+	background-color: #6ecaff;
+	font-size: 100px;
+	font-family: "Comic Sans MS", "comic Sans", cursive;
+}
+
+h1 {
+    font-size: 120px;
+	font-family: "Comic Sans MS", "comic Sans", cursive;
+}
+
+p {
+	font-size: 70px;
+	font-family: "Comic Sans MS", "comic Sans", cursive;
+	 position: relative;
+     left: 60px;
+	 top: 150px;
+}
+
+table {
+	padding-left: 20px;
+    padding-right: 20px;
+	padding: 10px;
+	border:solid;
+	border-width:1px;
+    width: 50%;
+    border-collapse: collapse;
+    white-space: nowrap;
+	position: absolute;
+	margin-left: 1500px;
+	margin-top: 100px;
+	border: 1px solid black;
+	font-size:50px;
+	
+}
+table,td,tr {
+	
+	border-collapse: collapse;
+	border:solid;
+	border-width:10px;
+	background-color: #D3D3D3;
+	
+}
+th {
+	
+	background-color: #eee0b1
+	
+}
+
+input {
+	width: 400px;
+	height: 100px;
+	font-size: 50px;
+	background-color: #D3D3D3;
+}
+
+#below {
+	
+	position: relative;
+	top: 150px;
+	margin-left: -880px;
+	
+	
+}
+fieldset {
+  background-color:#eee0b1;
+  width: 1000px;
+  height: 700px;
+  margin-left: 1800px;
+  margin-top: -500px;
+  border:solid;
+  border: 100px;
+}
+legend {
+  background-color:#eee0b1;
+  width:0;
+  height:0;
+  margin-top: 50px;
+}
+.submit {
+	top: -550px;
+	
+}
+
